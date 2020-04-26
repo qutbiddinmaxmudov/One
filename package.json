@@ -1,0 +1,27 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "one",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon  index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qutbiddinmaxmudov/One.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qutbiddinmaxmudov/One/issues"
+  },
+  "homepage": "https://github.com/qutbiddinmaxmudov/One#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
